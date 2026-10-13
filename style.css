@@ -1,0 +1,23 @@
+#portfolio {
+    max-width: 110px;
+    padding: 100px 0;
+    margin: auto;
+}
+
+#portfolio .titulo-seccion {
+    text-align: center;
+    font-size: 22px;
+    text-transform: uppercase;
+    color: #111135;
+    text-decoration: underline;
+    text-decoration-color: #d3d3d3;
+    text-decoration-thickness: 5px;
+}
+
+/* 
+#portfolio.fila {}
+#portfolio.fila .proyecto{}
+#portfolio.fila .proyecto img{}
+#porfolio.fila .proyecto .hover img{}
+#portfolio.fila .proyecto .info{}
+#porfolio.fila .proyecto .hover .info{}*/
